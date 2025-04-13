@@ -7,5 +7,8 @@ I hope to add more pages in the future and make it even more interactive!
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
 
-# Here's a preview:
+# Here's a Desktop preview:
 ![Host](https://github.com/user-attachments/assets/3e1e0073-78ae-4448-b53f-b69da04356e7)
+
+# Mobile preview:
+![Animação](https://github.com/user-attachments/assets/238136ad-9443-44d3-ac84-896771484339)
