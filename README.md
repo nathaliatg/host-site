@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![HTML5](https://img.shields.io/badge/HTML-5-orange) ![CSS3](https://img.shields.io/badge/CSS-3-blue)
 
-Olá! Este é um dos meus projetos favoritos até agora, desenvolvido como parte do meu aprendizado em desenvolvimento web. Criei uma página responsiva utilizando HTML e CSS, dedicando atenção especial às cores, acessibilidade e funcionalidades.
+Olá! Este é um dos meus projetos favoritos até agora, desenvolvido como parte do meu aprendizado em desenvolvimento web. Criei uma página responsiva utilizando HTML e CSS, dedicando atenção especial ao design, acessibilidade e funcionalidades.
 
 ## 🖥️ Pré-visualizações
 
@@ -53,6 +53,12 @@ host-site/
    cd host-site
    ```
 3. Abra o arquivo `index.html` em seu navegador preferido.
+
+## 🌍 Visualize o Projeto
+
+Acesse a versão online do projeto em:  
+[GitHub Pages](https://nathaliatg.github.io/host-site/)
+
 
 ## 📝 Melhorias Futuras
 
